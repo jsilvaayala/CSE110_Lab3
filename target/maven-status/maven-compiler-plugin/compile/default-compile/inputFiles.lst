@@ -1,2 +1,9 @@
-/Users/tony/Desktop/todolist/Lab3 - Starter/src/main/java/module-info.java
-/Users/tony/Desktop/todolist/Lab3 - Starter/src/main/java/edu/ucsd/spendingtracker/App.java
+C:\Users\Syrine Mekni\Lab3-Starter\src\main\java\edu\ucsd\spendingtracker\App.java
+C:\Users\Syrine Mekni\Lab3-Starter\src\main\java\edu\ucsd\spendingtracker\datasource\InMemoryDataSource.java
+C:\Users\Syrine Mekni\Lab3-Starter\src\main\java\edu\ucsd\spendingtracker\model\Category.java
+C:\Users\Syrine Mekni\Lab3-Starter\src\main\java\edu\ucsd\spendingtracker\model\Expense.java
+C:\Users\Syrine Mekni\Lab3-Starter\src\main\java\edu\ucsd\spendingtracker\model\Model.java
+C:\Users\Syrine Mekni\Lab3-Starter\src\main\java\edu\ucsd\spendingtracker\presenter\SpendingPresenter.java
+C:\Users\Syrine Mekni\Lab3-Starter\src\main\java\edu\ucsd\spendingtracker\repository\ExpenseRepository.java
+C:\Users\Syrine Mekni\Lab3-Starter\src\main\java\edu\ucsd\spendingtracker\view\SpendingView.java
+C:\Users\Syrine Mekni\Lab3-Starter\src\main\java\module-info.java
